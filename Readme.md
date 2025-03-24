@@ -31,11 +31,9 @@ Install requirements in Linux
    pip3 install -r requirements.txt
 ```
 
-If you have Error to install requirements in Linux 
+If you have Error to install requirements 
 ```
-  python3 -m venv venv
-  source venv/bin/activate
-  pip install -r requirements.txt
+   pip3 install --break-system-packages module-name
 ```
 
 
