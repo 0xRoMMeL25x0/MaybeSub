@@ -9,6 +9,7 @@ try :
     import socket
 except ImportError:
     print("[!] Error: Missing module. Please install required modules.")
+    exit(0)
 
 # make the tool Banner (LOGO) 
 def Banner():
