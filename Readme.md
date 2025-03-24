@@ -31,11 +31,20 @@ Install requirements in Linux
    pip3 install -r requirements.txt
 ```
 
+If you have Error to install requirements in Linux 
+```
+  python3 -m venv venv
+  source venv/bin/activate
+  pip install -r requirements.txt
+```
+
+
 Install requirements in windows 
 
 ```bash
    pip install -r requirements.txt
 ```
+
 
 For help
 
