@@ -3,6 +3,4 @@ emoji
 datetime 
 argparse
 requests
-json
-random
 socket
